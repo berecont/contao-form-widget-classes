@@ -1,4 +1,4 @@
-# Fügt Formularfeldern eigenen Klassen hinzu  
+# Fügt Formularfeldern eigene Klassen hinzu  
 ## über parseWidget Hook  
 ### *form_text*  
 `input` und `label`  
